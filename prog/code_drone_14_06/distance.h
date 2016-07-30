@@ -1,0 +1,6 @@
+
+
+bool DISTANCEOK();
+bool DISTANCEPROCHE();
+bool DISTANCELOIN();
+float DISTANCE();
