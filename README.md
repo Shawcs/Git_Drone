@@ -42,6 +42,4 @@
 
 Every thing
 
-```sh
-❯ code sample test
-```
+see https://github.com/Shawcs/Git_Drone/labels/TODO
